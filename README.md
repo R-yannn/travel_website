@@ -1,2 +1,2 @@
 # travel_website
-this is a travelling website created by me
+this is my first project of a travelling website 
